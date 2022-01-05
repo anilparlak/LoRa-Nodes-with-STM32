@@ -1,0 +1,6 @@
+core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+timer.c:10:6:timer2_init	16	static
+timer.c:31:10:timer2_setPeriod	24	static
+timer.c:38:6:timer2_enable	4	static
+timer.c:43:6:timer2_disable	4	static
